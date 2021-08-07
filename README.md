@@ -8,7 +8,7 @@ To analyze temperature data and get more information about temperature trends be
 ![june_data](https://user-images.githubusercontent.com/84524153/128582421-166a9245-8fcf-4033-9d4a-7a7e0bc6b726.png)
   ![december_data](https://user-images.githubusercontent.com/84524153/128582426-8503683d-37a1-4dd5-a238-1010faab9b58.png)
   
-- 
+- The different (1700-1517 = 183) between two observations counts that indicate the data of Dec, 2017 not included in databa
 
 Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
 ## Summary: 
