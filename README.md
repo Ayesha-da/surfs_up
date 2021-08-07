@@ -18,12 +18,15 @@ To analyze temperature data and get more information about temperature trends be
 ## Summary:
 The average temperature in month of June and December is around 70 degrees, both months have similar maximum and minimum temperatures and so it is safe to say that the temperature does not have dramatic fluctuations throughout the year.The precipitation is slightly higher in June than in December.
 
-- #### The queries to find precipitation level in June and December are shown below. 
+- #### The query to find precipitation level in June is shown below.
 
 ![jun1_prcp](https://user-images.githubusercontent.com/84524153/128614366-773bf548-e5fe-4aff-a8e3-293902855c67.png)
+
+- #### The query to find precipitation level in December is shown below.
+
 ![dec1_prcp](https://user-images.githubusercontent.com/84524153/128614368-ed0fd5ef-67ac-4733-9da4-40b9783afed0.png)
 
 
-- ##### We can also analyze temperature or precipitation data of any perticular station through out the years. The query to find precipitation level of one perticular station is     shown below.
+- #### We can also analyze temperature or precipitation data of any perticular station through out the years. The query to find precipitation level of one perticular station is     shown below.
 
 ![station_prcp](https://user-images.githubusercontent.com/84524153/128614372-4b9bec33-ae6e-4ec1-8955-b89894b25bd6.png)
